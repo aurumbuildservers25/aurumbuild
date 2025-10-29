@@ -4,7 +4,7 @@ import Home from "./Home";
 
 import contact from "./contact";
 
-import Technology from "./Technology";
+
 
 import Dreamhouse from "./Dreamhouse";
 
